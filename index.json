@@ -1,0 +1,16 @@
+{
+  "org": "amodm",
+  "repo": "webbrowser-rs",
+  "versions": [
+    {
+      "commit": "dc5a47657defa9dd9dac45220c6f3e3c727b6e41",
+      "tag": "v1.2.3",
+      "parsed_at": "2026-11-23T03:47:56.781089+00:00"
+    },
+    {
+      "commit": "13fdff33e967dd160581ce8ac45a8c3588e8eb59",
+      "tag": "v1.2.4",
+      "parsed_at": "2026-11-22T22:55:24.165051+00:00"
+    }
+  ]
+}
